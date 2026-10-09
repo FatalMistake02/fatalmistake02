@@ -1,0 +1,3 @@
+<div align="center">
+<img src="assets/greeting.png" alt="Hi, I’m Caleb" width="100%"><br><a href="https://fatalmistake02.com"><img src="assets/fatalmistake02-com.png" alt="Visit fatalmistake02.com" width="50%"></a><a href="https://calebjroche.com"><img src="assets/calebjroche-com.png" alt="Visit calebjroche.com" width="50%"></a><br><a href="https://cardlyapp.net"><img src="assets/cardly.png" alt="Cardly — the ultimate Pokémon card collection tracker" width="50%"></a><a href="https://github.com/FatalMistake02/drift"><img src="assets/drift.png" alt="Drift — all your notifications in one place, for Windows" width="50%"></a>
+</div>
